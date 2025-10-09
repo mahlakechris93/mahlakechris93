@@ -46,7 +46,7 @@ A complete notebook-based journey through ML concepts — from data preprocessin
 🧬 **[Disease Prediction AI](https://github.com/mahlakechris93/Disease-Prediction-AI)**  
 Developed a predictive AI model for early-stage disease risk detection using healthcare datasets.
 
-🧑‍💻 **[Phishing URL Detection (AI Security Awareness)](https://github.com/mahlakechris93/Phishing-URL-Detection-Practical-AI-Security-Awareness)**  
+🧑‍💻 **[Phishing URL Detection (AI Security Awareness)](https://github.com/mahlakechris93/Phishing-URL-Detection-Practical-AI-Security-Awreness)**  
 Built a phishing detection model leveraging AI for cybersecurity training and awareness.
 
 📈 **[My Data Analytics Journey](https://github.com/mahlakechris93/My-Data-Analytics-Journey)**  
