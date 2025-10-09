@@ -59,25 +59,31 @@ Documenting my hands-on learning and projects in data analytics, visualization, 
 **🎓 Microsoft**
 - Azure AI Engineer Associate  
 - Azure AI Fundamentals (AI-900)
+- Security, Compliance, and Identity Fundamentals (SC-900)
+- Microsoft SQL Server: Professional Certificate
 
 **🎓 IBM**
-- Data Analyst Professional Certificate  
-- Data Science Professional Certificate  
-- AI Engineering Professional Certificate  
-- Cybersecurity Analyst Professional Certificate  
-- Machine Learning with Python  
-- Databases & SQL for Data Science  
+- IBM Data Analyst: Professional Certificate
+- IBM Business Intelligence (BI) Analyst: Professional Certificate
+- IBM AI Engineering: Professional Certificate
+- IBM Machine Learning: Professional Certificate
+- IBM Data Science & Applied Data Science: Professional + Specialization Certs
+- IBM Cybersecurity Analyst: Professional Certificate
 
 **🎓 Google**
-- Data Analytics Professional Certificate  
+- Google Data Analytics: Professional Certificate
+- Google Cybersecurity: Professional Certificate
 
+**🎓 Other**
+- Mathematics for Machine Learning: Specialization Certificate
+- SAS Statistical Business Analyst: Professional Certificate
+- Python 3 Programming: Specialization Certificate
 ---
 
 ### 📫 Connect With Me
 
 🌐 [GitHub Profile](https://github.com/mahlakechris93)  
-💼 [LinkedIn](https://www.linkedin.com/in/chris-mahlake-623428213/) 
-📧 **Email:** mahlakechris93@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/chris-mahlake-623428213/)  
 
 ---
 
