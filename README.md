@@ -82,8 +82,8 @@ Documenting my hands-on learning and projects in data analytics, visualization, 
 
 ### 📫 Connect With Me
 
-🌐 [Instagram Profile](https://www.instagram.com/chris_junior_mahlake/)  
-
+🌐 [Instagram](https://www.instagram.com/chris_junior_mahlake/)  
+--
 💼 [LinkedIn](https://www.linkedin.com/in/chris-mahlake-623428213/)  
 
 ---
