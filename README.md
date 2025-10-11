@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chris Mahlake
 
-🎯 **Data & BI Analyst | AI & Machine Learning Specialist | Microsoft, IBM & Google Certified**
+🎯 **Data & BI Analyst | AI & Machine Learning Specialist | Python • SQL • Power BI • Azure ML Studio • IBM Watson Studio**
 
 Welcome to my GitHub!  
 I'm passionate about **transforming data into actionable insights**, building **AI-powered solutions**, and applying **machine learning** to solve real-world problems across business, analytics, and cybersecurity.
