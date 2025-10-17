@@ -47,7 +47,7 @@ A complete notebook-based journey through ML concepts — from data preprocessin
 Developed a predictive AI model for early-stage disease risk detection using healthcare datasets.
 🌐 [Live Demo](https://disease-prediction-ai-demo.streamlit.app/)
 
-🧑‍💻 **[Phishing URL Detection (AI Security Awareness)](https://github.com/mahlakechris93/Phishing-URL-Detection-Practical-AI-Security-Awreness)**  
+🧑‍💻 **[AI Chatbot Assistant (Lunga)](https://github.com/mahlakechris93/Chatbot-using-Streamlit)**  
 Built a phishing detection model leveraging AI for cybersecurity training and awareness.
 
 📈 **[My Data Analytics Journey](https://github.com/mahlakechris93/My-Data-Analytics-Journey)**  
