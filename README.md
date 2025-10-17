@@ -48,7 +48,8 @@ Developed a predictive AI model for early-stage disease risk detection using hea
 🌐 [Live Demo](https://disease-prediction-ai-demo.streamlit.app/)
 
 🧑‍💻 **[AI Chatbot Assistant (Lunga)](https://github.com/mahlakechris93/Chatbot-using-Streamlit)**  
-Built a phishing detection model leveraging AI for cybersecurity training and awareness.
+A modern, interactive AI chatbot built with Streamlit that supports multiple AI models via OpenRouter API.
+🌐 [Live Demo](https://assistant-chatbot-lunga.streamlit.app/)
 
 📈 **[My Data Analytics Journey](https://github.com/mahlakechris93/My-Data-Analytics-Journey)**  
 Documenting my hands-on learning and projects in data analytics, visualization, and reporting.
