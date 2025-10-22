@@ -69,17 +69,21 @@ Documenting my hands-on learning and projects in data analytics, visualization, 
 - IBM Business Intelligence (BI) Analyst: Professional Certificate
 - IBM AI Engineering: Professional Certificate
 - IBM Machine Learning: Professional Certificate
-- IBM Data Science & Applied Data Science: Professional + Specialization Certs
+- IBM Data Science & Applied Data Science: Professional + Specialization Certificates
 - IBM Cybersecurity Analyst: Professional Certificate
 
 **🎓 Google**
 - Google Data Analytics: Professional Certificate
+- Google Advanced Data Analytics: Professional Certificate
+- Google Business Intelligence: Professional Certificate
 - Google Cybersecurity: Professional Certificate
 
 **🎓 Other**
-- Mathematics for Machine Learning: Specialization Certificate
+- Imperial College London Mathematics for Machine Learning: Specialization Certificate
 - SAS Statistical Business Analyst: Professional Certificate
+- SAS Visual Business Analytics: Professional Certificate
 - Python 3 Programming: Specialization Certificate
+- Macquarie University Cybersecurity - Data & Identity Security: Specialization Certificate
 ---
 
 ### 📫 Connect With Me
