@@ -69,7 +69,8 @@ Documenting my hands-on learning and projects in data analytics, visualization, 
 - IBM Business Intelligence (BI) Analyst: Professional Certificate
 - IBM AI Engineering: Professional Certificate
 - IBM Machine Learning: Professional Certificate
-- IBM Data Science & Applied Data Science: Professional + Specialization Certificates
+- IBM Data Science: Professional Certificate
+- IBM Applied Data Science: Specialization Certificate
 - IBM Cybersecurity Analyst: Professional Certificate
 
 **🎓 Google**
