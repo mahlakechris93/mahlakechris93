@@ -90,7 +90,7 @@ Documenting my hands-on learning and projects in data analytics, visualization, 
 
 🌐 [Instagram](https://www.instagram.com/chris_junior_mahlake/)  
 
-💼 [LinkedIn](https://www.linkedin.com/in/chris-mahlake-623428213/)  
+💼 [LinkedIn](https://www.linkedin.com/in/mahlakechris93/)  
 
 
 ---
