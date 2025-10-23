@@ -25,7 +25,7 @@ I'm passionate about **transforming data into actionable insights**, building **
 `Power BI` · `Tableau` · `Matplotlib` · `Seaborn`
 
 **Cloud & AI Platforms:**  
-`Microsoft Azure` · `IBM Watson` · `Google Cloud` · `Jupyter Notebooks`
+`Microsoft Azure` · `IBM Watson` · `Google Cloud` · `Jupyter Notebooks` · `Streamlit`
 
 **Other Competencies:**  
 `Data Cleaning` · `Exploratory Data Analysis (EDA)` · `Model Deployment` · `Cybersecurity Fundamentals`
